@@ -5,4 +5,4 @@ HSO is a hybrid sparse monocular visual odometry system with online photometric 
 
 **Video:** https://youtu.be/AchJQ2u8K50
 
-code coming soon...
+Please go to https://github.com/luodongting/HSO
